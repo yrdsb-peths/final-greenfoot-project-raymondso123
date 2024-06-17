@@ -1,12 +1,12 @@
-# Final Greenfoot Project
-This is the README.md file.
-
-Consider using **Markdown** syntax to format the text in this file. [Markdown basics](https://www.markdownguide.org/getting-started/)
-
-PROJECT TITLE: **TBD**
-PURPOSE OF PROJECT: **Final game to learn Java and Greenfoot**
-VERSION or DATE: **05/22/24**
-HOW TO START THIS PROJECT: **Run the .greenfoot project with Greenfoot.**
-AUTHORS: **Raymond So**
+PROJECT TITLE: Futurebound
+PURPOSE OF PROJECT:
+A racing game where you travel through different times in history using your time travel ability.
+VERSION or DATE: 06/12/24
+HOW TO START THIS PROJECT: Open Greenfoot File
+AUTHORS: Raymond So
+TECHNICAL FEATS:
+- Custom Pixel Rendering Engine w/ Support for Curved roads
+- Parallax Vehicles and Skybox
+- Interesting Story
 USER INSTRUCTIONS:
-**TBD**
+Use arrow keys to move
